@@ -12,7 +12,7 @@ tweetBtn.addEventListener('click', function() {
         const newTweet = document.createElement('div');
         newTweet.classList.add('tweet');
         newTweet.innerHTML = `
-            <img src="profile-pic.jpg" alt="Profile Pic" class="profile-pic">
+            <img src="craig.png" alt="Profile Pic" class="profile-pic">
             <div class="tweet-content">
                 <div class="tweet-header">
                     <span class="username">okiashu</span>
